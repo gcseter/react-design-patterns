@@ -6,11 +6,11 @@
 
 2. Container components
 
-3. Controlled and Uncontrolled component: 
+3. Controlled and Uncontrolled components
 
 4. Higher-Order components
 
-5. Custom hooks patterns
+5. Custom hooks pattern
 
 6. The provider pattern
 

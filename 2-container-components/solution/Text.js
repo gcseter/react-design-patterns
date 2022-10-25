@@ -1,0 +1,1 @@
+export const Text = ({ message }) => <h1>{message}</h1>;

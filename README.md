@@ -1,5 +1,7 @@
 # React design patterns
 
+Video: https://drive.google.com/file/d/1FweJUkGSNpAfeUKsMjDLwvBGjzp-LKWS/view?usp=sharing
+
 ### Table of content
 
 1. Layout components
